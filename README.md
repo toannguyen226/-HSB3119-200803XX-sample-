@@ -1,7 +1,11 @@
 # Title of my wedsite
 
 ## level 2 heading
-write anything here
+* Item 1
+* Item 2
+* Item 3
+  * Sub Item A
+  * Sub Item B
 
 ## level 3 heading
 write anything here
